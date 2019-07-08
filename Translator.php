@@ -1,6 +1,6 @@
 <?php
 
-namespace leandrogehlen\querybuilder;
+namespace paulobrandit\querybuilder;
 
 use yii\base\BaseObject;
 use yii\helpers\ArrayHelper;

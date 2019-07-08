@@ -1,5 +1,5 @@
 {
-    "name": "leandrogehlen/yii2-querybuilder",
+    "name": "paulobrandit/yii2-querybuilder",
     "description": "Extension for Yii2 Framework to work with jQuery QueryBuilder",
     "keywords": ["yii2", "dynamic", "query", "builder", "querybuilder", "interface"],
     "type": "yii2-extension",
@@ -11,8 +11,8 @@
     },
     "authors": [
         {
-            "name": "Leandro Guindani Gehlen",
-            "email": "leandrogehlen@gmail.com"
+            "name": "Paulo Doellinger Brandit",
+            "email": "paulo.mendes@branditgroup.com"
         }
     ],
     "repositories": [
@@ -30,7 +30,7 @@
         "phpunit/phpunit": "~4.4"
     },
     "autoload": {
-        "psr-4": { "leandrogehlen\\querybuilder\\": "" }
+        "psr-4": { "paulobrandit\\querybuilder\\": "" }
     },
     "extra": {
         "branch-alias": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace leandrogehlen\querybuilder;
+namespace paulobrandit\querybuilder;
 
 use yii\web\AssetBundle;
 
@@ -23,7 +23,7 @@ class QueryBuilderAsset extends AssetBundle {
 
     public $depends = [
         'yii\web\JqueryAsset',
-        'leandrogehlen\querybuilder\BootstrapAsset',
+        'yii\bootstrap4\BootstrapAsset',
     ];
 
 } 

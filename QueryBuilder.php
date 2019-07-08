@@ -1,6 +1,6 @@
 <?php
 
-namespace leandrogehlen\querybuilder;
+namespace paulobrandit\querybuilder;
 
 /**
  * QueryBuilder renders a jQuery QueryBuilder component.
